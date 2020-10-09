@@ -1,3 +1,7 @@
+body {
+  background-image: url("https://www.ncdc.noaa.gov/monitoring-content/sotc/snow/2014/jan/Jan_3_snow.png");
+}
+
 .vertical-center {
   min-height: 100%; /* Fallback for browsers do NOT support vh unit */
   min-height: 100vh; /* These two lines are counted as one :-)       */
